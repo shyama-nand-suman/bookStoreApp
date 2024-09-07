@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "titel":"loren",
+        "price":0,
+        "Category":"Free",
+        "image":"https://img.freepik.com/free-photo/beautiful-landscape-from-magazine-coming-life_23-2151158548.jpg?semt=ais_hybrid"
+    },
+
+    {
+        "id":2,
+        "name":"Story Book",
+        "titel":"loren",
+        "price":0,
+        "Category":"Free",
+        "image":"https://img.freepik.com/free-photo/portrait-smiling-woman-holding-two-books_114579-70804.jpg?ga=GA1.1.1631002388.1725696767&semt=ais_hybrid"
+    },
+    {
+        "id":3,
+        "name":"Story Book",
+        "titel":"loren",
+        "price":0,
+        "Category":"Free",
+        "image":"https://img.freepik.com/free-photo/beautiful-landscape-from-magazine-coming-life_23-2151158548.jpg?semt=ais_hybrid"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "titel":"loren",
+        "price":0,
+        "Category":"Free",
+        "image":"https://img.freepik.com/free-photo/beautiful-landscape-from-magazine-coming-life_23-2151158548.jpg?semt=ais_hybrid"
+    }
+]
